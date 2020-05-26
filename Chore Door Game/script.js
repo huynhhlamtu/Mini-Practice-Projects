@@ -85,7 +85,7 @@ function startRound() {
     doorImage1.src = closedDoorPath;
     doorImage2.src = closedDoorPath;
     doorImage3.src = closedDoorPath;
-    numClosedDoors = 3;
+//    numClosedDoors = 3;
     startButton.innerHTML = 'Good luck!';
     currentlyPlaying = true;
     numOpenedSaveDoors = 0;
